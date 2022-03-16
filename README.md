@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tiemmeti
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web development
+- 📫 Contact: tiemmeti.tm@gmail.com
